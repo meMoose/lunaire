@@ -58,6 +58,25 @@ Depiction: https://memoose.github.io/repo/depic/Debdle/debdle.html
                                         ( 00:51_03/18/24 )
 Name: Debdle
 
+Package: com.moose.debup
+Version: 1.3.9
+Architecture: iphoneos-arm64
+Maintainer: Moose <gathering011@gmail.com>
+Installed-Size: 264
+Depends: git, perl, bzip2
+Filename: debs/com.moose.debup.deb
+Size: 43792
+MD5sum: ea08df1083380c3cf09591bb6c4fc7f6
+SHA1: 411c277e6247d7b041b02882bc59841a3668ffe4
+SHA256: 3fd1d7c8a3a35ce3f592665c851e09fe730e50d557f28267c6d3f9b898178186
+Section: Development
+Homepage: https://github.com/meMoose
+Description: A command line for developers to manage and upload deb packages to cydia repo (Github cydia repo) with a single click.
+Tag: role::developer, purpose::console
+Author: Moose <gathering011@gmail.com>
+Depiction: https://memoose.github.io/repo/depic/Debup/debup.html
+Name: DebUp
+
 Package: com.moose.rebd
 Version: 0.4.2
 Architecture: iphoneos-arm64e
