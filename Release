@@ -2,17 +2,17 @@ Origin: Lunaire's Repo
 Label: Lunaire's Repo
 Suite: stable
 Version: 1.0
-Codename: EMT
+Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: Well...
 MD5Sum:
- 5e239d1df341a366bd6a82a58ce40660 5447 Packages
- 135e42d4aea3e054fe172036ea6cc082 2025 Packages.bz2
- 3a41040ea49324104b8db9c954a609c6 1926 Packages.gz
- 1ea0da5b1729cc10ee58eb85ea51395b 1875 Packages.zst
+ d5a6048bb80474118df97c650a79c5c1 3555 Packages
+ f86ebef396b72e3d826b6fdbb9db8438 1491 Packages.bz2
+ 30d8377dbf8e4a4b5301cf8c06649ca1 1358 Packages.gz
+ 74ed51545228855064a1355681042ba1 1340 Packages.zst
 SHA256:
- d5f84fd0705e5cacff5ff7eaf095e4c9adaac4f426f3b6514845a43c57608dd9 5447 Packages
- 858c4a0c18cadfdafc0f742cea56632fd43f64502077b5cdff696b169dd5bb4b 2025 Packages.bz2
- 2491b506abfdbc27c62853bc7d967298dafae70cb233f2e53eb7f77164eb91eb 1926 Packages.gz
- 93d8cf2f6c4327d9f38d6a3241c74e98ac41e0ed8913c315a3383ade1129ab17 1875 Packages.zst
+ 1e701a3f29af9fc205ec19002bdecb3ba83ae925ccfbf1c8a4157b5563122e34 3555 Packages
+ 6dc767b7b84ed17d9505b6207e30ecb16d656a1566140b7eb2660519ae7f9a59 1491 Packages.bz2
+ 3d2cea49be66dc18e9f4ae8a0caa4efcb6cfe1b741356ae5b98f24e7cc54aea2 1358 Packages.gz
+ 55303f75d3e98cb64b2c25a894e79f016b04692e27cb998897b7dfeabf16edce 1340 Packages.zst
