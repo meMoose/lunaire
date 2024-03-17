@@ -5,14 +5,15 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Well...
+Description: Well
+
 MD5Sum:
  d5a6048bb80474118df97c650a79c5c1 3555 Packages
  f86ebef396b72e3d826b6fdbb9db8438 1491 Packages.bz2
- 30d8377dbf8e4a4b5301cf8c06649ca1 1358 Packages.gz
+ 19056c505cb5aab0914922784b164983 1358 Packages.gz
  74ed51545228855064a1355681042ba1 1340 Packages.zst
 SHA256:
  1e701a3f29af9fc205ec19002bdecb3ba83ae925ccfbf1c8a4157b5563122e34 3555 Packages
  6dc767b7b84ed17d9505b6207e30ecb16d656a1566140b7eb2660519ae7f9a59 1491 Packages.bz2
- 3d2cea49be66dc18e9f4ae8a0caa4efcb6cfe1b741356ae5b98f24e7cc54aea2 1358 Packages.gz
+ 49624fcf710dfc583112a265474b3bac8ed448d2154cf6621f0c3a51bd7120d8 1358 Packages.gz
  55303f75d3e98cb64b2c25a894e79f016b04692e27cb998897b7dfeabf16edce 1340 Packages.zst
