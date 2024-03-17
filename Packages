@@ -19,3 +19,23 @@ Depiction: https://memoose.github.io/repo/depic/Upmem/upmem.html
                                           Rebuild by rebd.
                                         ( 11:23_07/01/2022 )
 
+Package: com.moose.rebd
+Architecture: iphoneos-arm64e
+Version: 0.4.2
+Section: Development
+Maintainer: Moose <gathering011@gmail.com>
+Installed-Size: 16
+Depends: gawk, curl, rsync
+Filename: ./debs/com.moose.rebd.deb
+Size: 3492
+MD5sum: 69b77f1b3e6ebfcf7fc91fcabfd24e1b
+SHA1: c27e1447de917709ba5034a0ecd32f16a744ed00
+SHA256: 438c1a9cb2473deb70477cb11a353a739c626d2ec9b592995d1cde0eefecef5b
+SHA512: 2aec4149c7a0fda8668ac829c635e94f37f5a625d225e16d4381e864495a2a0d8dab48684f23bb736d93a4b356cfd5fe2760476d2c255f66e3b2d32de093917c
+Homepage: https://github.com/meMoose
+Description: A command-line to rebuild installed deb packages.
+Tag: role::developer, purpose::console
+Name: Rebd
+Author: Moose <gathering011@gmail.com>
+Depiction: https://memoose.github.io/repo/depic/Rebd/rebd.html
+
