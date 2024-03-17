@@ -39,24 +39,27 @@ Author: Moose <gathering011@gmail.com>
 Depiction: https://memoose.github.io/repo/depic/Bencr/bencr.html
 
 Package: com.moose.debdle
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64e
 Version: 0.4.9-1
 Section: Utilities
 Maintainer: Moose <gathering011@gmail.com>
 Installed-Size: 28
 Depends: com.moose.rebd
 Filename: ./debs/com.moose.debdle.deb
-Size: 5884
-MD5sum: fd9953d6c0ccbd2bd31e97fe3d8354f6
-SHA1: d12a6aa610d724ad4a4f322e7bb7d700d523dc2b
-SHA256: 1ac33a9a306f8288cee614098a13261d4ffa654e84fb3f7e1d64d7347058ea97
-SHA512: 0d76d6547042c4afcec0fd23f35d5e35276f9c25af0732c6517b0e6fc6a5c3d69eb1b9fb628e75020949267754b4757d33271f1ae23f1934a510aa26f0ee4685
+Size: 5968
+MD5sum: 3dd3b3472bc128578c1a2b16dd6eb67f
+SHA1: 497830181b9e7a4efb78e7dbc7b54716c9680151
+SHA256: 721961117bcbbd2c76b97c7c5c2a9baac025b77bf6969bf35b3ce437ae9554fe
+SHA512: e711fd5da5272bc510992a5605418959b2403cc6f01b96e5ee88faff662e19dc5ea636b55245fdb166f35b91baf7db3c880e531b9373c65ba27207f9848d0861
 Homepage: https://github.com/meMoose
 Description: A Command line utility to backup and restore deb packages.
 Tag: role::enduser, purpose::console
 Name: Debdle
 Author: Moose <gathering011@gmail.com>
 Depiction: https://memoose.github.io/repo/depic/Debdle/debdle.html
+ .
+                                          Rebuild by rebd.
+                                        ( 00:51_03/18/24 )
 
 Package: com.moose.rebd
 Architecture: iphoneos-arm64e
