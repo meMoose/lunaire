@@ -69,13 +69,13 @@ Maintainer: Moose <gathering011@gmail.com>
 Installed-Size: 264
 Depends: git, perl, bzip2
 Filename: ./debs/com.moose.debup.deb
-Size: 43772
-MD5sum: 6ee618b15240c3db9da8b7c2bd866701
-SHA1: 29b6af2a7d82d7b13b97ab11aefad64bdd6a7604
-SHA256: 65dee23006b5c94d347f2e080c69c0c46e639a10283107d8a49a40c5d8a44dfb
-SHA512: cb1109bfa397de11cc172f7355a8e36de898ebdf3fc68b86c4e3b993dd42043e49d121bd2a57fd91c0c4d6b54959e121fa37cb88fae2903c90b16344ddbd326a
+Size: 43788
+MD5sum: 3f7dc2a8f9a64e921a374f07d23fae1b
+SHA1: d9467bfd2898bc27ea92db6546f5b270ec53d593
+SHA256: 02dd67d45b27a85d20498f8593333f2fb020c5acc06315334587dcefd29c5330
+SHA512: dd9df93757f4edee6d6066a9f49179eeb2e394190476f8dd88c136824160563789aa2f21b720c9e33715b90b3d192ad04b39cf90e6022900cb56661950994df5
 Homepage: https://github.com/meMoose
-Description: A command line for developers to manage and upload deb packages to cydia repo (Github cydia repo)
+Description: Command-line tool for developers to manage and upload deb packages to cydia repo (Github cydia repo)
 Tag: role::developer, purpose::console
 Name: DebUp
 Author: Moose <gathering011@gmail.com>
