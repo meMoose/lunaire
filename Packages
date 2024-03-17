@@ -38,6 +38,26 @@ Name: Bencr
 Author: Moose <gathering011@gmail.com>
 Depiction: https://memoose.github.io/repo/depic/Bencr/bencr.html
 
+Package: com.moose.debdle
+Architecture: iphoneos-arm
+Version: 0.4.9-1
+Section: Utilities
+Maintainer: Moose <gathering011@gmail.com>
+Installed-Size: 28
+Depends: com.moose.rebd
+Filename: ./debs/com.moose.debdle.deb
+Size: 5884
+MD5sum: fd9953d6c0ccbd2bd31e97fe3d8354f6
+SHA1: d12a6aa610d724ad4a4f322e7bb7d700d523dc2b
+SHA256: 1ac33a9a306f8288cee614098a13261d4ffa654e84fb3f7e1d64d7347058ea97
+SHA512: 0d76d6547042c4afcec0fd23f35d5e35276f9c25af0732c6517b0e6fc6a5c3d69eb1b9fb628e75020949267754b4757d33271f1ae23f1934a510aa26f0ee4685
+Homepage: https://github.com/meMoose
+Description: A Command line utility to backup and restore deb packages.
+Tag: role::enduser, purpose::console
+Name: Debdle
+Author: Moose <gathering011@gmail.com>
+Depiction: https://memoose.github.io/repo/depic/Debdle/debdle.html
+
 Package: com.moose.rebd
 Architecture: iphoneos-arm64e
 Version: 0.4.2
