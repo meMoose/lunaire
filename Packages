@@ -1,0 +1,21 @@
+Package: com.kramerapps.jetsamctl
+Architecture: iphoneos-arm64e
+Version: 0.2
+Section: System
+Maintainer: Doregon <tunnic.adam@gmail.com>
+Installed-Size: 208
+Depends: firmware (>= 6.0), dpkg (>= 1.13.25-5)
+Filename: ./debs/com.kramerapps.jetsamctl.deb
+Size: 5412
+MD5sum: 6380d183d2e31afc06756fc0fb00b9f2
+SHA1: c97411e6d64d8fb13735b6c2068a998a13e855aa
+SHA256: a437c7991a7c13c1fff4bbc00f369c11e8576728e4ba2aac0b1162a67f20e192
+SHA512: b58d6079fb995dc019af2c658b747c8d71bfbdd563ad473ff6b97cad0e942b14b39724b1bfbf996672f29108504607cde59eeaa524e78dd7c9b38cbe71df8bdd
+Description: Modify Jetsam constraints
+Name: conradev's jetsamctl
+Author: Conrad Kramer <conrad@kramerapps.com>
+Depiction: https://memoose.github.io/repo/depic/Upmem/upmem.html
+ .
+                                          Rebuild by rebd.
+                                        ( 11:23_07/01/2022 )
+
