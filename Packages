@@ -1,103 +1,98 @@
 Package: com.kramerapps.jetsamctl
-Architecture: iphoneos-arm64e
 Version: 0.2
-Section: System
+Architecture: iphoneos-arm64e
 Maintainer: Doregon <tunnic.adam@gmail.com>
 Installed-Size: 208
 Depends: firmware (>= 6.0), dpkg (>= 1.13.25-5)
-Filename: ./debs/com.kramerapps.jetsamctl.deb
+Filename: debs/com.kramerapps.jetsamctl.deb
 Size: 5412
 MD5sum: 6380d183d2e31afc06756fc0fb00b9f2
 SHA1: c97411e6d64d8fb13735b6c2068a998a13e855aa
 SHA256: a437c7991a7c13c1fff4bbc00f369c11e8576728e4ba2aac0b1162a67f20e192
-SHA512: b58d6079fb995dc019af2c658b747c8d71bfbdd563ad473ff6b97cad0e942b14b39724b1bfbf996672f29108504607cde59eeaa524e78dd7c9b38cbe71df8bdd
+Section: System
 Description: Modify Jetsam constraints
-Name: conradev's jetsamctl
 Author: Conrad Kramer <conrad@kramerapps.com>
 Depiction: https://memoose.github.io/repo/depic/Upmem/upmem.html
  .
                                           Rebuild by rebd.
                                         ( 11:23_07/01/2022 )
+Name: conradev's jetsamctl
 
 Package: com.moose.bencr
-Architecture: iphoneos-arm64e
 Version: 0.1.3
-Section: Development
+Architecture: iphoneos-arm64e
 Maintainer: Moose <gathering011@gmail.com>
 Installed-Size: 8
-Filename: ./debs/com.moose.bencr.deb
+Filename: debs/com.moose.bencr.deb
 Size: 1084
 MD5sum: 65b6e3651536b4cd369e66712bcffc30
 SHA1: b7fa3c0c5ffa66b38eeb09bf4abda3fcbd4c7a23
 SHA256: 75fbb5f6ebee211803e77968f4d73adb59b22da100761dcd15d2e52ab84cc7f8
-SHA512: 8312727ae934465626844df42ac5257828d61fee7d9f008134d0ce7042dbf515c9b0e1b695f5b84ca6c6d5a702e63197a8c2c21a7a5dc5f1f9b26b058a6100ba
+Section: Development
 Homepage: https://github.com/meMoose
 Description: Bash Script Encrypter.
 Tag: role::developer, purpose::console
-Name: Bencr
 Author: Moose <gathering011@gmail.com>
 Depiction: https://memoose.github.io/repo/depic/Bencr/bencr.html
+Name: Bencr
 
 Package: com.moose.debdle
-Architecture: iphoneos-arm64e
 Version: 0.4.9-1
-Section: Utilities
+Architecture: iphoneos-arm64e
 Maintainer: Moose <gathering011@gmail.com>
 Installed-Size: 28
 Depends: com.moose.rebd
-Filename: ./debs/com.moose.debdle.deb
+Filename: debs/com.moose.debdle.deb
 Size: 5968
 MD5sum: 3dd3b3472bc128578c1a2b16dd6eb67f
 SHA1: 497830181b9e7a4efb78e7dbc7b54716c9680151
 SHA256: 721961117bcbbd2c76b97c7c5c2a9baac025b77bf6969bf35b3ce437ae9554fe
-SHA512: e711fd5da5272bc510992a5605418959b2403cc6f01b96e5ee88faff662e19dc5ea636b55245fdb166f35b91baf7db3c880e531b9373c65ba27207f9848d0861
+Section: Utilities
 Homepage: https://github.com/meMoose
 Description: A Command line utility to backup and restore deb packages.
 Tag: role::enduser, purpose::console
-Name: Debdle
 Author: Moose <gathering011@gmail.com>
 Depiction: https://memoose.github.io/repo/depic/Debdle/debdle.html
  .
                                           Rebuild by rebd.
                                         ( 00:51_03/18/24 )
+Name: Debdle
 
 Package: com.moose.rebd
-Architecture: iphoneos-arm64e
 Version: 0.4.2
-Section: Development
+Architecture: iphoneos-arm64e
 Maintainer: Moose <gathering011@gmail.com>
 Installed-Size: 16
 Depends: gawk, curl, rsync
-Filename: ./debs/com.moose.rebd.deb
+Filename: debs/com.moose.rebd.deb
 Size: 3492
 MD5sum: 69b77f1b3e6ebfcf7fc91fcabfd24e1b
 SHA1: c27e1447de917709ba5034a0ecd32f16a744ed00
 SHA256: 438c1a9cb2473deb70477cb11a353a739c626d2ec9b592995d1cde0eefecef5b
-SHA512: 2aec4149c7a0fda8668ac829c635e94f37f5a625d225e16d4381e864495a2a0d8dab48684f23bb736d93a4b356cfd5fe2760476d2c255f66e3b2d32de093917c
+Section: Development
 Homepage: https://github.com/meMoose
 Description: A command-line to rebuild installed deb packages.
 Tag: role::developer, purpose::console
-Name: Rebd
 Author: Moose <gathering011@gmail.com>
 Depiction: https://memoose.github.io/repo/depic/Rebd/rebd.html
+Name: Rebd
 
 Package: com.moose.upmem
-Architecture: iphoneos-arm64e
 Version: 0.1.8
-Section: System
+Architecture: iphoneos-arm64e
 Maintainer: Moose <gathering011@gmail.com>
 Installed-Size: 12
 Depends: com.kramerapps.jetsamctl, gawk
-Filename: ./debs/com.moose.upmem.deb
+Filename: debs/com.moose.upmem.deb
 Size: 2452
 MD5sum: 5f7613cc1f6ab02602dcb74adff811fb
 SHA1: 84af4879dc89b7095316668a0994230b4ba69774
 SHA256: 521f23677a33464544ac656e17c7b583dedcff06d614b742c01cb4fcd0e87070
-SHA512: d304ec77cf9257b4cd2d544976da47bde78cd8fe281e179493d36c238e6ce0721f30cf78cbceafd2031f896c0c3c71357b701e4ce51b03192639265f5cfb47a6
+Section: System
 Homepage: https://doregon.github.io/json-webviews/?json=https://doregon.github.io/cydia/depictions/natives/com.doregon.overb0ard.json&name=overb0ard&dev=Adam%20Tunnic&section=System
 Description: A Command line to raises RAM memory of applications or system process (jetsamctl method).
 Tag: role::enduser, purpose::console
-Name: Upmem
 Author: Moose <gathering011@gmail.com>
 Depiction: https://memoose.github.io/repo/depic/Upmem/upmem.html
+Name: Upmem
 
