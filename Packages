@@ -26,17 +26,18 @@ Section: Development
 Maintainer: Moose <gathering011@gmail.com>
 Installed-Size: 8
 Filename: ./debs/com.moose.bencr.deb
-Size: 1260
-MD5sum: 4fa22b872c30151a59e576a4451cac79
-SHA1: 72a28f6ad7a6354ffc9cb427184e2f6db6f2660f
-SHA256: 79b7b217702ef9bd3de2818892b5b96b60cc32ebcce2e907dccab8446df0a658
-SHA512: 1562ae9bced0c6bef3561a90b7a972484bf80468677d7669f807c10cac11cd381d309e889041f5f240572cb18b4eb4a900feb8eb1c472708f83dae8174a99578
+Size: 1276
+MD5sum: 0dbdca37f8ea4052e09bb41c2796c8cb
+SHA1: 05c34efe50477f6a4699720ad6fd1e0e60007188
+SHA256: 9803fb9619441636f2db4d18981f49b3e74eb3b736e37e22225d467a3b9dbbf3
+SHA512: 983a77e6f948ba310a5200c591889b6df345c9d05ad72d4bc2a5d0455303ab9069f422ae6aa9cbcd997e49a40953a566a95eb8946338fe6a72b5fac656c7d229
 Homepage: https://github.com/meMoose
 Description: Bash Script Encrypter.
 Tag: role::developer, purpose::console
 Name: Bencr
 Author: Moose <gathering011@gmail.com>
 Depiction: https://memoose.github.io/lunaire/depictions/web/?p=com.moose.bencr
+SileoDepiction: https://memoose.github.io/lunaire/depictions/native/com.moose.bencr/depiction.json
 
 Package: com.moose.debdle
 Architecture: iphoneos-arm64e
