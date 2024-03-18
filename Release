@@ -1,0 +1,37 @@
+Architectures: iphoneos-arm64e
+Codename: ios
+Components: main
+Date: Mon, 18 Mar 2024 06:35:28 +0000
+Description: Well...
+Label: Lunaire's Repo
+Origin: Lunaire's Repo
+Suite: stable
+Version: 1.0
+MD5Sum:
+ 21322ce0ab6ac2abd1fbf5690e8d6f10             5169 Packages
+ d8b109a53450521a6e0ac3d2a2746457             2146 Packages.bz2
+ 3c073ae39e2599039749dc04a440ebdd             2064 Packages.gz
+ 587428a07454fc093cca5a474fe1773b             2036 Packages.xz
+ 81d8107d67ccceb44b90611f12516efd             2012 Packages.zst
+ a43f0c6a4e18d547ec4d25d7707dd38c              193 Release
+SHA1:
+ 625289bd198dc5be268ed89cdd05e802558297fd             5169 Packages
+ 89ce4228b72750dff7da04277310ec1d44baad62             2146 Packages.bz2
+ 30b8bb1acc04655cce6543ac16b73d269ae5da3d             2064 Packages.gz
+ 1286dd17b966dbe6c0ba91aec7f246e3ea0fd1cd             2036 Packages.xz
+ dbda502ec7f969c5c9bf06d5e8a24ae4db3eb6d2             2012 Packages.zst
+ e1ffbf1ead67971c70cb652f841cfd7f1d32c5c9              193 Release
+SHA256:
+ 1143598fdef64d6d6f8cc8adf779fe74db211fe954859f902b571f834e0395a9             5169 Packages
+ 029c1d85eaf43edb4895f8eb2db753f686d98c023545c83cdc73ef876ebac8ef             2146 Packages.bz2
+ ddcc387047666836a0f181237130e243b8c89633ef9c1f681741e9dd19fc71a4             2064 Packages.gz
+ 62ade81815a3819a73cf7ae89eaa7a7d2b108b34057a927e8d5664786bc70253             2036 Packages.xz
+ f21aa95650fd4067ff6f45d52b5fda51e0b2008b5fafabf38edb2a145162adec             2012 Packages.zst
+ 28100114146d2af1ec36af3bf941b49754bcd597985dcaeda6b1779291a322bf              193 Release
+SHA512:
+ 220acdf20547e4921688caa2060deff6483e836060a6ae11275a9aebd7577380755386f1e3b79f7081ec25e5a043b797def6d0296d2eeb8e119673e93fed3934             5169 Packages
+ 4c9fcd2834955441cb6778652d58e8c8be29236930048a98da6732b612636c5bf0af4fe4d422a65c3d2f1f12ea3ff6d45887fb23228a0fcdc2239f7c70633ffb             2146 Packages.bz2
+ 8e26e8f4e21b51eed5488ba17c11f17d1bffeffc3d10a2503634c78ac585a141e897d6612bc37c35ca593d2f2f44019acd65ffbcbd50e38767ae7bd0f8375c3c             2064 Packages.gz
+ 9c22075c3a3ff0c81326ed37e70811682e5ada8eaaaf3816774dd5918008d15b69e20b5239273b21dc37092f1100e9f1307167bdb53ddf5bdec5f3c9fff0b421             2036 Packages.xz
+ ee198b7c34df480c655eab929054d07f1ebc5dc3f3bda70537e1e689d76c32a697d1b922cea39dd74383fde4779cb7847e62a5adb1e997b6523e34e41e4d68c5             2012 Packages.zst
+ 3f5b3846fee6e4711f693008b24cb4660f772d68e435c73570a9f2c137ddb8f0e17bb8695d869041541c15ed4ece8b489b18bc657d96d9355033557b2b1b22ca              193 Release
