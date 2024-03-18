@@ -19,6 +19,26 @@ Depiction: https://memoose.github.io/repo/depic/Upmem/upmem.html
                                           Rebuild by rebd.
                                         ( 11:23_07/01/2022 )
 
+Package: com.moose.bencr
+Architecture: iphoneos-arm64e
+Version: 0.1.3
+Section: Development
+Maintainer: Moose <gathering011@gmail.com>
+Installed-Size: 8
+Filename: ./debs/com.moose.bencr.deb
+Size: 1276
+MD5sum: 0dbdca37f8ea4052e09bb41c2796c8cb
+SHA1: 05c34efe50477f6a4699720ad6fd1e0e60007188
+SHA256: 9803fb9619441636f2db4d18981f49b3e74eb3b736e37e22225d467a3b9dbbf3
+SHA512: 983a77e6f948ba310a5200c591889b6df345c9d05ad72d4bc2a5d0455303ab9069f422ae6aa9cbcd997e49a40953a566a95eb8946338fe6a72b5fac656c7d229
+Homepage: https://github.com/meMoose
+Description: Bash Script Encrypter.
+Tag: role::developer, purpose::console
+Name: Bencr
+Author: Moose <gathering011@gmail.com>
+Depiction: https://memoose.github.io/lunaire/depictions/web/?p=com.moose.bencr
+SileoDepiction: https://memoose.github.io/lunaire/depictions/native/com.moose.bencr/depiction.json
+
 Package: com.moose.debdle
 Architecture: iphoneos-arm64e
 Version: 0.4.9-1
