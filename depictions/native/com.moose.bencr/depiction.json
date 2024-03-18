@@ -9,7 +9,7 @@
 				{
 					"class": "DepictionMarkdownView",
 					"markdown": "## bencr\nBash Script Encrypter
-usage : bencr filepath dest"
+usage bencr filepath dest"
 				},
 				{
 					"class": "DepictionSeparatorView"
