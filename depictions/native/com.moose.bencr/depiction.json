@@ -8,8 +8,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## bencr\nBash Script Encrypter
-usage bencr filepath dest"
+					"markdown": "## bencr\nBash_Sript_Encrypter"
 				},
 				{
 					"class": "DepictionSeparatorView"
