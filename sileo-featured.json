@@ -6,7 +6,7 @@
     {
         "url": "https://raw.githubusercontent.com/uchks/repo.me/master/assets/Banners/RepoHeader.png",
         "title": "Debdle",
-        "package": "com.kramerapps.jetsamctl",
+        "package": "com.moose.debdle",
         "hideShadow": false
     }
   ]
