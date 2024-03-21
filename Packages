@@ -102,18 +102,18 @@ Name: Insurl
 Author: Moose <gathering011@gmail.com>
 Depiction: https://memoose.github.io/repo/depic/Insurl/insurl.html
 
-Package: com.memoose.ipreb
-Architecture: iphoneos-arm
+Package: com.moose.ipreb
+Architecture: iphoneos-arm64e
 Version: 0.1.3
 Section: Development
 Maintainer: Moose <gathering011@gmail.com>
 Installed-Size: 12
 Filename: ./debs/com.moose.ipreb.deb
-Size: 2670
-MD5sum: e3fcd40620f12b40cf2ec05012cbf70a
-SHA1: 67a6724039cfbd64919c935fd941cb16fb20e863
-SHA256: 236bba073b7fb6f6fac6d14a800d49a9c3d2e9f5dd910eb5285d100a1c817a47
-SHA512: cf0342fddd3a2bd9d733b802e111f0fc91e8b50f2fbe80ce648de9742921185479eab054dd097faddeda0b3e07228b28e89b423d5d156b165eb6484f2570b006
+Size: 2744
+MD5sum: 55140e6cfb645ab5f6709f8e08a8fb01
+SHA1: fc074fba201838892d0319130a925015cbd8ea79
+SHA256: 7e0b89e11c5936cc9bd4b78748684641e1f34a2f7043d6146051e1fde87f3034
+SHA512: 5c35bec70bcb940f4a445e6194580650c2048c1b283a0f82724695e1aba24a07a665fed66a7976fe753654594f0bce92c5d7437556c60ad0e17bb26cd4dfa46d
 Homepage: https://github.com/meMoose
 Description: Command-line tool to rebuild ipa file
 Tag: role::developer, purpose::console
