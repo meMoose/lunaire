@@ -104,16 +104,17 @@ Depiction: https://memoose.github.io/repo/depic/Insurl/insurl.html
 
 Package: com.moose.ipreb
 Architecture: iphoneos-arm64e
-Version: 0.1.4
+Version: 0.1.5
 Section: Development
 Maintainer: Moose <gathering011@gmail.com>
 Installed-Size: 12
+Depends: defaults, ai.akemi.appinst, ai.akemi.appsyncunified
 Filename: ./debs/com.moose.ipreb.deb
-Size: 2748
-MD5sum: 281bc9e787bed01410ce0b9aeb8d98f5
-SHA1: d954a000c3427a529e0a65a4b717dbb0801a9f43
-SHA256: c0e9c8b466b717696618e0b0eed7cbf22bd2b235b63c494b5ff98619da6bfe1f
-SHA512: 9943b74c2821de426877bdaf28f95716479d58411891004bb8a49d3f9aef07ac8cf177bea5ed64872dc31899f54253cbeaf656f763288eb15fab457f655c69c8
+Size: 2780
+MD5sum: 5f4109b0db9464f48b0f70c313e445d3
+SHA1: 5646af018269f92f39569459929268480b814a1b
+SHA256: 662be4034388180770a4ffd1c4b1a83ea5903e9c6f703b62060e7f698aa68ebb
+SHA512: bf3482bb1bb7109ea9f6b2c6c8d69856239530764c65f47375a36efd26acbfff9ccefa69b6174558a26b2b2ff8e53e1db7fe5ad094732f425e8213803c65496d
 Homepage: https://github.com/meMoose
 Description: Command-line tool to rebuild ipa file
 Tag: role::developer, purpose::console
