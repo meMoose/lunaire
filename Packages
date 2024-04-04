@@ -83,18 +83,18 @@ Author: Moose <gathering011@gmail.com>
 Depiction: https://memoose.github.io/repo/depic/Debup/debup.html
 
 Package: com.moose.gboost
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64e
 Version: 0.0.1
 Section: System
 Maintainer: Moose <gathering011@gmail.com>
 Installed-Size: 12
 Depends: com.kramerapps.jetsamctl, gawk
 Filename: ./debs/com.moose.gboost.deb
-Size: 1740
-MD5sum: d4f71d9f7bd3abd0c7d17c0d9564a8b7
-SHA1: c9e4116e083b4acc3bf061cdd1516505e6f7f321
-SHA256: 36b86eb9852c204db98f02c99cb212aa36c3a357b8e224d8d721adf48a9d0ea5
-SHA512: 00540d4c0c4345ca159c49d5e337adc81a75cc94e2847062b34edbb4ba81cc919f7c08016d0b881a4349a0aa16eaf357008264452f292db78cd36efae4ab4c28
+Size: 1744
+MD5sum: 7a7b75aab9d474987c93fe3f798058d6
+SHA1: 778119419e9a161c506ba87514a1c3817b4cb79e
+SHA256: c0dd2c35d24324452ca9979f29c18ee222b87df99e7e6878d3670cf9489a0c51
+SHA512: e4e6c2e1740af6eaa76730af1cb33a271db5eaa26c02e0e7287861fead8460dd5188451ef5a4f4e452c3bc955657ae0741a1003620c1fb8f7ae94f673944ba0a
 Homepage: https://doregon.github.io/json-webviews/?json=https://doregon.github.io/cydia/depictions/natives/com.doregon.overb0ard.json&name=overb0ard&dev=Adam%20Tunnic&section=System
 Description: Command-line tools to boost game performance.
 Tag: role::enduser, purpose::console
