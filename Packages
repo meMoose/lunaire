@@ -82,6 +82,26 @@ Name: DebUp
 Author: Moose <gathering011@gmail.com>
 Depiction: https://memoose.github.io/repo/depic/Debup/debup.html
 
+Package: com.moose.gboost
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: System
+Maintainer: Moose <gathering011@gmail.com>
+Installed-Size: 12
+Depends: com.kramerapps.jetsamctl, gawk
+Filename: ./debs/com.moose.gboost.deb
+Size: 1740
+MD5sum: d4f71d9f7bd3abd0c7d17c0d9564a8b7
+SHA1: c9e4116e083b4acc3bf061cdd1516505e6f7f321
+SHA256: 36b86eb9852c204db98f02c99cb212aa36c3a357b8e224d8d721adf48a9d0ea5
+SHA512: 00540d4c0c4345ca159c49d5e337adc81a75cc94e2847062b34edbb4ba81cc919f7c08016d0b881a4349a0aa16eaf357008264452f292db78cd36efae4ab4c28
+Homepage: https://doregon.github.io/json-webviews/?json=https://doregon.github.io/cydia/depictions/natives/com.doregon.overb0ard.json&name=overb0ard&dev=Adam%20Tunnic&section=System
+Description: Command-line tools to boost game performance.
+Tag: role::enduser, purpose::console
+Name: Gboost
+Author: Moose <gathering011@gmail.com>
+Depiction: https://memoose.github.io/repo/depic/Gboost/gboost.html
+
 Package: com.moose.insurl
 Architecture: iphoneos-arm64e
 Version: 2.6.2
