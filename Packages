@@ -173,7 +173,7 @@ Section: System
 Maintainer: Moose <gathering011@gmail.com>
 Installed-Size: 12
 Depends: com.kramerapps.jetsamctl, gawk
-Filename: ./debs/com.moose.gboos (rootless).deb
+Filename: ./debs/com.moose.gboost (rootless).deb
 Size: 1748
 MD5sum: bc1b1cd9d7d091c23f6c80fab226c74b
 SHA1: 70efe7fd05531acad1a9196e1c1264d0b3c641e7
