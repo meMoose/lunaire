@@ -1,37 +1,18 @@
-Architectures: iphoneos-arm iphoneos-arm64
-Codename: ios
-Components: main
-Date: Fri, 05 Apr 2024 12:02:17 +0000
-Description: Well...
+Origin: Lunaire's Repo 
 Label: Lunaire's Repo
-Origin: Lunaire's Repo
 Suite: stable
 Version: 1.0
+Codename: EMT
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: My personal repo for jailbreak tweaks
 MD5Sum:
- 04f86856706c921092ddee830c619593            15639 Packages
- 0763dfcf87da468ca5bf7daffd387089             4463 Packages.bz2
- fa5b928c5307ce6ed291767c883d4e23             4564 Packages.gz
- d83e483919fcfedfd6cdcc53887e133a             4180 Packages.xz
- d41d8cd98f00b204e9800998ecf8427e                0 Packages.zst
- d41d8cd98f00b204e9800998ecf8427e                0 Release
-SHA1:
- c529a8bdc53733b1202886bd606db2f3cd1c51b1            15639 Packages
- c922c196cc59fe16c21e19c8fff21933c281fdca             4463 Packages.bz2
- 9cbbfb6fd25dcc8a6722d2940a47e729202421bf             4564 Packages.gz
- e4d236f513972ff30d8fb8d68b5c00f42d51d700             4180 Packages.xz
- da39a3ee5e6b4b0d3255bfef95601890afd80709                0 Packages.zst
- da39a3ee5e6b4b0d3255bfef95601890afd80709                0 Release
+ 08268f894b034d682a613a573c44fb89 13137 Packages
+ f220332ffd33df44391ed6e4a05514fa 3207 Packages.bz2
+ 6930295df9ec100a9df7ae8c8674e3e2 3084 Packages.gz
+ 73bc9e85203d302a4528526fd68644f7 2901 Packages.zst
 SHA256:
- b4da187e17fc399a5162f760adfa96591a189a6cfdd7cf5537b9678b71d7fd36            15639 Packages
- 6fb1aad3c59175912ece408a5a4960e115d48c1810ada83d7e1a12ca41c30a6a             4463 Packages.bz2
- 37e3f2ff8e5625de054c06ab2d8ec00852861097c9749b3c7111125e8f4bcd9e             4564 Packages.gz
- ef196bd6b766a81b53bb751403e80b4723dee4da71cd10e1178fee5d6b59fee9             4180 Packages.xz
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 Packages.zst
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 Release
-SHA512:
- 5b324760545afb727a74b16f891f769d880d68f79799405ce21c8db50076f66ffbe6b155209cc69226e13f65eedf18960f2c2c8930bcf07f22871268279a54e0            15639 Packages
- 533532351b8d343d4483a003699390996b3aa6b44c29c0d0eda35e3be216a55bbb996f17deea0b4dfca60a84343ed48ed1bc080709a21a5a7070402c3476d7ac             4463 Packages.bz2
- 2e8a7d5d35142d2aaa4eead8570166af1c870e514ef48b72198351114930c0348f0a6d8fa3afab397a9f743d954d98b95a3589bf5b14f94e1959e746dee85b1b             4564 Packages.gz
- 0f6e4877c3a4e6a3a9f83230192aa024f4c694121cc000c673c47e525a4f553401e58ad4bd1c24b26737297a291918ae83e55b355ed28e4a073905d960da83ef             4180 Packages.xz
- cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 Packages.zst
- cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 Release
+ 6404f5c4b1dc4d24af5800f7a1e03db56a4df4eab67e2fe75f41a015e179ef06 13137 Packages
+ 85a062ef74a7baedf02ed1545e32e127f88c1c94ff8492bd3c8861111841a576 3207 Packages.bz2
+ 661bd9958f23b32a8b8fb5536ac27fe1530bf74912a18bc204cb44668616e0e2 3084 Packages.gz
+ 5b5751a107a550cedcf6194ec4cba6ce9cadd6466ccb15b562e69912a63874aa 2901 Packages.zst
