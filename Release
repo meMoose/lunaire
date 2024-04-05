@@ -5,14 +5,14 @@ Version: 1.0
 Codename: EMT
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: My personal repo for jailbreak tweaks
+Description: Well...
 MD5Sum:
- 08268f894b034d682a613a573c44fb89 13137 Packages
- f220332ffd33df44391ed6e4a05514fa 3207 Packages.bz2
- 6930295df9ec100a9df7ae8c8674e3e2 3084 Packages.gz
- 73bc9e85203d302a4528526fd68644f7 2901 Packages.zst
+ 929137cbb506839389919011502b2145 13137 Packages
+ d81761f25c6ffc7953d7342816ed99c4 3215 Packages.bz2
+ de074c88146b4a29017dabe82c787ed7 3082 Packages.gz
+ 3a88c32f38e6527de5b9739488546ab0 2901 Packages.zst
 SHA256:
- 6404f5c4b1dc4d24af5800f7a1e03db56a4df4eab67e2fe75f41a015e179ef06 13137 Packages
- 85a062ef74a7baedf02ed1545e32e127f88c1c94ff8492bd3c8861111841a576 3207 Packages.bz2
- 661bd9958f23b32a8b8fb5536ac27fe1530bf74912a18bc204cb44668616e0e2 3084 Packages.gz
- 5b5751a107a550cedcf6194ec4cba6ce9cadd6466ccb15b562e69912a63874aa 2901 Packages.zst
+ f958811ab77cd158989a7fb03cf3f360885a8b83d9a9454e48afdb9e5e1ecf84 13137 Packages
+ 1898083de7a28bb4b07477f8a1f42ec38b006a532b7c7eb3066ced6521f18aaf 3215 Packages.bz2
+ fe690a159a69b46aa4f591eb9d910454f7dbe22262d8f12298c988e61d53e9cd 3082 Packages.gz
+ 8aaf9629fa9377efee3d6f55d9b2c9ba77feebdc3ef759cb51e79a28fe65f3f7 2901 Packages.zst

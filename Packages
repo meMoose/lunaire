@@ -25,10 +25,10 @@ Maintainer: Doregon <tunnic.adam@gmail.com>
 Installed-Size: 208
 Depends: firmware (>= 6.0), dpkg (>= 1.13.25-5)
 Filename: debs/com.kramerapps.jetsamctl (rootless).deb
-Size: 5012
-MD5sum: 24d6f78900e2471b248531a0c86773c5
-SHA1: d72f69d2969688a52948cb52ef8c1089f519cf8a
-SHA256: 14fc69ab3640b7b4f43cf0f15f0e010a9aa99009e7b6238256ae69c908955835
+Size: 5060
+MD5sum: ae97fb0a59e1b135e6abd50fff974baf
+SHA1: abc81e4cb2be11820f18290647e1c061d279ed50
+SHA256: 965a3c3129b25f719824752a54a193e2981401c4f046a0b22fe4c94c2ad7f648
 Section: System
 Description: Modify Jetsam constraints
 Author: Conrad Kramer <conrad@kramerapps.com>
@@ -63,10 +63,10 @@ Architecture: iphoneos-arm64
 Maintainer: Moose <gathering011@gmail.com>
 Installed-Size: 8
 Filename: debs/com.moose.bencr (rootless).deb
-Size: 1284
-MD5sum: c20234dc5c4a42ead41f3ad4e29dda5d
-SHA1: ca20bced0ee70038ab1734cbd6a6cff39e80cbad
-SHA256: e1731994eb5da57e6dbbabf393f0038674395b9dc69de5ab45b5276388067961
+Size: 1328
+MD5sum: 8e58f19aeecd1ddf90b0d10c63884a54
+SHA1: f31b5e662b124e1b2c985203c6bdc0e279370704
+SHA256: d2352719e1ca5e1e983f5a87fb52b6071507ebd2abcec6ca4ad28db0e601c60e
 Section: Development
 Homepage: https://github.com/meMoose
 Description: Bash Script Encrypter.
@@ -105,10 +105,10 @@ Maintainer: Moose <gathering011@gmail.com>
 Installed-Size: 28
 Depends: com.moose.rebd
 Filename: debs/com.moose.debdle (rootless).deb
-Size: 5888
-MD5sum: 32378678fdf90b64afd3f27ee3b5da12
-SHA1: ca5c9f5bbc7c4eaf24b059d43dfa776e4e8e90bf
-SHA256: 9abf0e141f9ca43d77d5337ad8246387b82a69bdacc71f36b5af9dde55ebcfcf
+Size: 5932
+MD5sum: 2368b01d24e7aaa1fc1190da7526e8b2
+SHA1: 919674a7737c867939c33f00b4ebb09c8bb62f36
+SHA256: c0cb02acebf353393601364d066d81a33ee755ee6694b7fb3af99f6a9309257b
 Section: Utilities
 Homepage: https://github.com/meMoose
 Description: A Command line utility to backup and restore deb packages.
@@ -146,10 +146,10 @@ Maintainer: Moose <gathering011@gmail.com>
 Installed-Size: 264
 Depends: git, perl, bzip2, gzip
 Filename: debs/com.moose.debup (rootless).deb
-Size: 43800
-MD5sum: aee6e877d81a2ef4e580e09643429a11
-SHA1: eb8f7f1eb6b5fd31ec7b4b5bc438c139e0af1b88
-SHA256: b3ba3c2661f36e4bcd5bc60f4a8b9a0c412771977a6e0c95d89e8b0a67d87bb7
+Size: 43828
+MD5sum: 06d7e553a73fd1748651b9ec8972c98d
+SHA1: e85364ce498ed8acb1560f09df73845ef5204c64
+SHA256: e965c80b5ef7ecd079a1959483e4ca0233d3a70c511f8362c441554356e43164
 Section: Development
 Homepage: https://github.com/meMoose
 Description: Command-line tool for developers to manage and upload deb packages to cydia repo (Github cydia repo)
@@ -184,10 +184,10 @@ Maintainer: Moose <gathering011@gmail.com>
 Installed-Size: 12
 Depends: com.kramerapps.jetsamctl, gawk
 Filename: debs/com.moose.gboost (rootless).deb
-Size: 1748
-MD5sum: bc1b1cd9d7d091c23f6c80fab226c74b
-SHA1: 70efe7fd05531acad1a9196e1c1264d0b3c641e7
-SHA256: 0753478e3e9121343b8c4a7cd363114d97fb62ad9bdbfc00cfc68d9efee85388
+Size: 1788
+MD5sum: 27b6e7e7e2c221b0c42ea153a27d5d77
+SHA1: ac28edfa34e9e64d488bc3819f7d126bbfa6d9af
+SHA256: 6347bd7de55a948df9ed17a13e6c049e434d1fab4cdc07e291f782d8f4c8cf66
 Section: System
 Homepage: https://doregon.github.io/json-webviews/?json=https://doregon.github.io/cydia/depictions/natives/com.doregon.overb0ard.json&name=overb0ard&dev=Adam%20Tunnic&section=System
 Description: Command-line tools to boost game performance.
@@ -222,10 +222,10 @@ Maintainer: Moose <gathering011@gmail.com>
 Installed-Size: 3,6
 Depends: wget, coreutils, com.linusyang.appinst
 Filename: debs/com.moose.insurl (rootless).deb
-Size: 3384
-MD5sum: 80109fc25d9f10218ce966528b91ee06
-SHA1: 167c04f639e969aea0b07d858e2a22fbb555678b
-SHA256: c03db0693dffad284d505f49eccfed8f140182c9a2eaf6c8a442ee8c59c4fd3b
+Size: 3452
+MD5sum: df5e7a4cd0928d96311af4f760d843c5
+SHA1: 2221c3f4a91d256a08e1360bb19f2705d64f8dc3
+SHA256: 2e3702cc8d5801de65b96b34adeeea778ad3ae11f64f8dbb3464720cb8644b76
 Section: Utilities
 Homepage: https://github.com/meMoose
 Description: A Command line utility to install deb packages with url.
@@ -241,10 +241,10 @@ Maintainer: Moose <gathering011@gmail.com>
 Installed-Size: 12
 Depends: defaults, ai.akemi.appinst, ai.akemi.appsyncunified
 Filename: debs/com.moose.ipreb (rootless).deb
-Size: 2792
-MD5sum: 3e35f34ed72a5e0fa635b81c7f1c25c1
-SHA1: 4812f52ab6097a4b949057d5c43e05539f7c7424
-SHA256: e809a1ed56a08b0c7cf2ca0c7132424a8f52a9257281abd71f048171f88b44aa
+Size: 2824
+MD5sum: b49a0540a6fb0ea868978c1eb0814805
+SHA1: 46672923a91b40cf06e6d354e6083c4e011c6284
+SHA256: 2fbef3e427dda355be74a6373f1d204d8731dd664d2f05f7bbab646673600f99
 Section: Development
 Homepage: https://github.com/meMoose
 Description: Command-line tool to rebuild ipa file
@@ -298,10 +298,10 @@ Maintainer: Moose <gathering011@gmail.com>
 Installed-Size: 16
 Depends: gawk, curl, rsync
 Filename: debs/com.moose.rebd (rootless).deb
-Size: 3444
-MD5sum: 76c43cd7fe74fb2f6f32a1592d078314
-SHA1: 9f5a6df570bd35a6350d3c624f536e9b97f47f96
-SHA256: 8cc6eddc330e50e60a53a95ab6828fd9afa5e08941c38e10dbb5364c43efdba3
+Size: 3488
+MD5sum: ae1ed9c2a57edb05d761369e421f8e38
+SHA1: eb57dcc664181a9aac4deeff2fd7fa4676203f5c
+SHA256: 1fe7673684557d2e37f53ca1563c119f6d61513563639c4e41d6062a2f37465d
 Section: Development
 Homepage: https://github.com/meMoose
 Description: A command-line to rebuild installed deb packages.
@@ -317,10 +317,10 @@ Maintainer: Moose <gathering011@gmail.com>
 Installed-Size: 12
 Depends: com.kramerapps.jetsamctl, gawk
 Filename: debs/com.moose.upmem (rootless).deb
-Size: 2548
-MD5sum: 8fb27c596de9d2271cfa6f85c693fb94
-SHA1: 543ad47e5b3b38dbf5386ff8bb19142fa06ac5cb
-SHA256: 696a9d05e94b32ffec4d3c168e6b3e2f9aaf1cda446ff408382cea2a1bd24c6a
+Size: 2592
+MD5sum: f6d9691e69482edeb3c4afc54c6734cf
+SHA1: 03844c413e09585783920aa4240afce153973df0
+SHA256: af14cae45082b30b6d2230944eaa7ce1cdb06bdd3e5bc042fa2ac4ce24155391
 Section: System
 Homepage: https://doregon.github.io/json-webviews/?json=https://doregon.github.io/cydia/depictions/natives/com.doregon.overb0ard.json&name=overb0ard&dev=Adam%20Tunnic&section=System
 Description: A Command line to raises RAM memory of applications or system process (jetsamctl method).
