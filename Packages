@@ -241,10 +241,10 @@ Maintainer: Moose <gathering011@gmail.com>
 Installed-Size: 12
 Depends: defaults, ai.akemi.appinst, ai.akemi.appsyncunified
 Filename: debs/com.moose.ipreb (rootless).deb
-Size: 2824
-MD5sum: b49a0540a6fb0ea868978c1eb0814805
-SHA1: 46672923a91b40cf06e6d354e6083c4e011c6284
-SHA256: 2fbef3e427dda355be74a6373f1d204d8731dd664d2f05f7bbab646673600f99
+Size: 2832
+MD5sum: 0f9934db12b60fe9cb6d780b19396573
+SHA1: 7754d458b3f1373a552896914b415c8b72894a09
+SHA256: c8cef49e919633dc5a3657851097800d6a4d4fccb5b08bb984c29b1768a39ae0
 Section: Development
 Homepage: https://github.com/meMoose
 Description: Command-line tool to rebuild ipa file
