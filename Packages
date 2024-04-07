@@ -178,16 +178,16 @@ Depiction: https://memoose.github.io/repo/depic/Gboost/gboost.html
 Name: Gboost
 
 Package: com.moose.gboost
-Version: 1.2.2
+Version: 1.2.3
 Architecture: iphoneos-arm64
 Maintainer: Moose <gathering011@gmail.com>
 Installed-Size: 12
 Depends: com.kramerapps.jetsamctl, mterminal, gawk, plutil
 Filename: debs/com.moose.gboost (rootless).deb
-Size: 2580
-MD5sum: a6e8a090aa0006bc94442b5fb6538880
-SHA1: 13405e8fa03c99acd5e0c8424bcff83ff77b04c7
-SHA256: 4445faa3fc5b54e67b3ed2e2830a08867227b235a6f4863eff73d52efb4e219e
+Size: 2596
+MD5sum: 4fcac704635ca5ab833ce6ed79e35d7a
+SHA1: 813c33a56a845f45e7c696d79cab16dc8f04ab36
+SHA256: 73cbd5917e294cd24414500c5b2b517bfc9302375c7383623cf8dc7f02d0f06f
 Section: System
 Homepage: https://doregon.github.io/json-webviews/?json=https://doregon.github.io/cydia/depictions/natives/com.doregon.overb0ard.json&name=overb0ard&dev=Adam%20Tunnic&section=System
 Description: Command-line tools to boost game performance.
