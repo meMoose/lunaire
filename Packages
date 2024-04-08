@@ -159,16 +159,16 @@ Depiction: https://memoose.github.io/repo/depic/Debup/debup.html
 Name: DebUp (rootless)
 
 Package: com.moose.gboost
-Version: 1.2.2
+Version: 1.2.4
 Architecture: iphoneos-arm64e
 Maintainer: Moose <gathering011@gmail.com>
 Installed-Size: 12
-Depends: com.kramerapps.jetsamctl, mterminal, gawk, plutil
+Depends: com.kramerapps.jetsamctl, gawk, plutil
 Filename: debs/com.moose.gboost.deb
-Size: 2552
-MD5sum: 943d0b9117c1353cb8cb0e0aac110743
-SHA1: 05ec800d5e0c1500fb8ccc571b3378727cf020e4
-SHA256: 7bea49703e79f52a4995340736e9d5403977eadf3abc87902007542f4cb0ec18
+Size: 2620
+MD5sum: 203ea2a06acee2120fa77d0a6c2e6a60
+SHA1: 1453b7fc2a07d7fe66edfa315349f07b3d83a7b1
+SHA256: df5bf306a65a2b5cce8e28a9bd4751d195c2dcc1feae69ce341bd9204e614c5c
 Section: System
 Homepage: https://doregon.github.io/json-webviews/?json=https://doregon.github.io/cydia/depictions/natives/com.doregon.overb0ard.json&name=overb0ard&dev=Adam%20Tunnic&section=System
 Description: Command-line tools to boost game performance.
@@ -178,16 +178,16 @@ Depiction: https://memoose.github.io/repo/depic/Gboost/gboost.html
 Name: Gboost
 
 Package: com.moose.gboost
-Version: 1.2.3
+Version: 1.2.4
 Architecture: iphoneos-arm64
 Maintainer: Moose <gathering011@gmail.com>
 Installed-Size: 12
-Depends: com.kramerapps.jetsamctl, mterminal, gawk, plutil
+Depends: com.kramerapps.jetsamctl, gawk, plutil
 Filename: debs/com.moose.gboost (rootless).deb
-Size: 2596
-MD5sum: 4fcac704635ca5ab833ce6ed79e35d7a
-SHA1: 813c33a56a845f45e7c696d79cab16dc8f04ab36
-SHA256: 73cbd5917e294cd24414500c5b2b517bfc9302375c7383623cf8dc7f02d0f06f
+Size: 2660
+MD5sum: 908f2b6e193e172eb57ef44f2602f594
+SHA1: a79ce12bbb95030cd20c066f4c3180b914862226
+SHA256: bcd48e3768d71d97f5ae1a4ba8e0b6b22e1e57cfc729fe86e5df2c6ccd1bf2ce
 Section: System
 Homepage: https://doregon.github.io/json-webviews/?json=https://doregon.github.io/cydia/depictions/natives/com.doregon.overb0ard.json&name=overb0ard&dev=Adam%20Tunnic&section=System
 Description: Command-line tools to boost game performance.
